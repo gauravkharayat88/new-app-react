@@ -6,7 +6,7 @@ import imgg from './Images/Vectorcross.svg'
 import image from './Images/TRJ.svg'
 import frame from './Images/Frame 2.svg'
 import vector from './Images/Frame 1.png'
-import vector2 from './Images/Vector-90.svg'
+
 const Login = () => {
     const[burger_class,setBurgerClass]=useState("burger-bar unclicked")
   const[menu_class, setMenuClass]=useState("menu hidden")
@@ -74,7 +74,7 @@ const Login = () => {
     <button className='signup-00' >Sign up</button></Link>
     </div>
    <div className='box'>   </div>
-   <div className='box-01' > </div>
+
     <div className='box-00'></div>
 
 

@@ -317,10 +317,13 @@ animation-fill-mode: forwards;
   font-size: 10px;
   line-height:12px;
     background-color: #09062f;
-  
+    position: absolute;
+top: 1%;
+overflow: hidden;
+ 
     border-radius: 12px;
     width: 95%;
-    margin: 6px  10px;
+   margin: 6px 10px;
     height: 651px;
 
 
@@ -447,15 +450,15 @@ margin-top: 6px;
 }
 
 .sign-2{
-
+position: absolute;
   background-color: #1e194e;
 box-shadow: 0px 6px 4px rgba(0, 0 ,0, 0.25) ;
 margin-left: 8px;
-width: 96.5%;
+width: 97.5%;
 margin: 10px 10px 10px 6.5px;
 height: 641px;
 
-
+top: -0.8%;
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px;
   border-top-left-radius: 12px;
